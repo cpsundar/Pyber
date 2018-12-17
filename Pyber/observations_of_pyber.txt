@@ -1,0 +1,17 @@
+observations.
+
+1. From bubble plot (Pyber Ride sharing data (2016)), 
+      a). Pyber is used less compared to suburban and urban city types
+	  b). Pyber's average fare is high in rural may be because of less usage
+	  c). urban's total number of rides higher than other city types
+	  
+2. From the pie chart (% of Total drivers by City type).
+	  a). Out of Total drivers, 80% are from urban city types
+
+3. From the pie chart (% of Total Fares by City Type)
+      a). Total market share of fares are from suburban and urban city types (93%).
+
+4. From the pie chart (% of Total Rides by City Type)
+	  a). 93% of total rides from suburban and urban city types
+	
+	
